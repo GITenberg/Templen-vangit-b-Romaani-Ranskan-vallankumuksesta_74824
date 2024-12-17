@@ -1,0 +1,43 @@
+_repo: Templen-vangit-b-Romaani-Ranskan-vallankumuksesta_74824
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kivimäki, Urho
+    alias: Kivimaki, Urho
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '32243'
+    url: http://www.gutenberg.org/2009/agents/32243
+    wikipedia: https://fi.wikipedia.org/wiki/Urho_Kivim%C3%A4ki
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: ''
+gutenberg_issued: '2024-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74824'
+language: fi
+pgterms:marc905: 20241118221616dumas
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Templen vangit : $b Romaani Ranskan vallankumuksesta'
+url: http://www.gutenberg.org/ebooks/74824
